@@ -1,5 +1,5 @@
 # Starfinder-Npc-Arrays
-A collection of markdown files for the different NPC arrays for use with Obsidian.md
+A collection of markdown files for the different NPC arrays for use with Obsidian.md as templates.
 
 All of this is extracted from the tables of Alien Archives, p 142.
 
